@@ -5,5 +5,8 @@ class Post
     @title = title
     @genre = genre
   end
+  
+  def author 
+end
  
 end
